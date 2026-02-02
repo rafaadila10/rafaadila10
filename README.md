@@ -32,9 +32,9 @@ Experienced **IT Support & Web Developer** with a strong background in public se
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaadila10&show_icons=true&theme=tokyonight" alt="Rafa's Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaadila10&theme=tokyonight" alt="Rafa's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaadila10&show_icons=true&theme=transparent" alt="Rafa's Stats" />
+  <br/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaadila10&layout=compact&theme=transparent" alt="Top Languages" />
 </p>
 
 ---
